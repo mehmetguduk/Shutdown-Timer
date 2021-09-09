@@ -3,7 +3,7 @@
 
 
 
-# All images of LearnQuick are here.
+# The visual and design part of the application is here.
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
