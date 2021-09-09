@@ -1,3 +1,7 @@
+# © Designed and Developed by Mehmet Güdük.
+# © Licensed with GPL-3.0 License, Author is Mehmet Güdük.
+
+
 import sys
 import os
 from PyQt5 import QtWidgets
