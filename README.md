@@ -12,6 +12,6 @@ After choosing an action from the drop-down menu, you can set the timer by speci
 
 ★ **Method one** : You can download all py files (MAIN.py, icon.py, interface.py) in same folder and run MAIN.py.
 
-★ **Method two** : You can open CLICK HERE FOR EXE VERSION.txt in EXE VERSION folder and download the exe version of the application from the link in it.
+★ **Method two** : You can [CLICK HERE](https://github.com/mehmetguduk/Shutdown-Timer/releases/tag/Exe) for exe version of application.
 
 ★ **Method three** : You can download all py files (MAIN.py, icon.py, interface.py) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access.
