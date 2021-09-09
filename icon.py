@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
+# © Designed and Developed by Mehmet Güdük.
+# © Licensed with GPL-3.0 License, Author is Mehmet Güdük.
 
-# Resource object code
-#
-# Created by: The Resource Compiler for PyQt5 (Qt v5.15.2)
-#
-# WARNING! All changes made in this file will be lost!
+
+
+# All images of LearnQuick are here.
 
 from PyQt5 import QtCore
 
