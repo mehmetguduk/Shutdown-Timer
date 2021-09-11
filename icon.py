@@ -3,7 +3,7 @@
 
 
 
-# All images of LearnQuick are here.
+# All images of Shutdown Timer are here.
 
 from PyQt5 import QtCore
 
