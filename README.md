@@ -10,8 +10,8 @@ After choosing an action from the drop-down menu, you can set the timer by speci
 
 ![howdoiruntheapplication](https://user-images.githubusercontent.com/85064536/132687543-46138470-8f67-419e-a900-4c133fd0751f.jpg)
 
-★ **Method one** : You can download all py files (MAIN.py, icon.py, interface.py) in same folder and run MAIN.py.
+★ **Method one** : You can [CLICK HERE](https://github.com/mehmetguduk/Shutdown-Timer/releases/tag/Exe) for exe version of application.
 
-★ **Method two** : You can [CLICK HERE](https://github.com/mehmetguduk/Shutdown-Timer/releases/tag/Exe) for exe version of application.
+★ **Method two** : You can download all py files (MAIN.py, icon.py, interface.py) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access.
 
-★ **Method three** : You can download all py files (MAIN.py, icon.py, interface.py) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access.
+★ **Method three** : You can download all py files (MAIN.py, icon.py, interface.py) in same folder and run MAIN.py.
