@@ -22,7 +22,6 @@ In order to choose Method two or Method three you should install required module
 
 Requirements :
 
-● Windows operating system
-● Python 3
+● Windows operating system \n ● Python 3
 ● Python pip
 ● Python Module : PyQt5==5.15.4 
