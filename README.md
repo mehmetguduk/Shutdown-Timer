@@ -15,3 +15,11 @@ After choosing an action from the drop-down menu, you can set the timer by speci
 ★ **Method two** : You can download all files (MAIN.py, icon.py, interface.py, logo.ico) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access.
 
 ★ **Method three** : You can download all files (MAIN.py, icon.py, interface.py, logo.ico) in same folder and run MAIN.py.
+
+In order to choose Method two or Method three you should install required modules that project use with the command below.
+
+```pip install -r requirements.txt```
+
+Required Modules :
+
+● PyQt5==5.15.4
