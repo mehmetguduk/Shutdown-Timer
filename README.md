@@ -12,9 +12,9 @@ After choosing an action from the drop-down menu, you can set the timer by speci
 
 ★ **Method one** : You can [CLICK HERE](https://github.com/mehmetguduk/Shutdown-Timer/releases/tag/Exe) for exe version of application.
 
-★ **Method two** : You can download all files (MAIN.py, icon.py, interface.py, logo.ico) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access.
+★ **Method two** : You can download all files (MAIN.py, icon.py, interface.py, logo.ico, requirements.txt) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access.
 
-★ **Method three** : You can download all files (MAIN.py, icon.py, interface.py, logo.ico) in same folder and run MAIN.py.
+★ **Method three** : You can download all files (MAIN.py, icon.py, interface.py, logo.ico, requirements.txt) in same folder and run MAIN.py.
 
 In order to choose Method two or Method three you should install required modules that project use with the command below.
 
